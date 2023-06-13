@@ -1,0 +1,10 @@
+* quickdocs
+
+Library Documentation Hosting for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/quickdocs.git   |
+| commit  | 7fe2f4d  |
+| systems | quickdocs |
+|---------+-------------------------------------------|
+
