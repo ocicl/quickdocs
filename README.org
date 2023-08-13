@@ -2,9 +2,8 @@
 
 Library Documentation Hosting for Common Lisp.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/fukamachi/quickdocs.git   |
-| commit  | 02836c6  |
-| systems | quickdocs |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------|
+| source  | git:https://github.com/fukamachi/quickdocs.git |
+| commit  | 02836c6                                        |
+| systems | NIL                                            |
+|---------+------------------------------------------------|
